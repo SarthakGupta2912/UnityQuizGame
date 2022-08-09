@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class CorrectAndWrongAnswerDetect_Sarthak : MonoBehaviour
+public class QuizGame_Sarthak : MonoBehaviour
 {
     //[SerializeField] MainManager mainManager;
     //[SerializeField] QuizManager2_alimentaryCanal _quizManager2AlimentaryCanal;
